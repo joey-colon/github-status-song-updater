@@ -1,6 +1,6 @@
 # github song status updater thing
 
-###broadcast to the github world the degenerate music u listen to
+broadcast to the github world the degenerate music u listen to
 
 ---
 
