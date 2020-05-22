@@ -1,7 +1,7 @@
 const fetch = require('node-fetch');
 const { GitHubProfileStatus } = require('github-profile-status');
-
-require('dotenv').config();
+const { resolve } = require('path');
+require('dotenv').config({ path: resolve(__dirname, '../.env') });
 
 const LASTFM_USERNAME = 'odxs';
 const LASTFM_API_KEY = process.env.LASTFM_API_KEY;
