@@ -6,6 +6,6 @@
   "dependencies": {
     "dotenv": "^8.2.0",
     "github-profile-status": "^1.0.0",
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.1"
   }
 }
